@@ -15,7 +15,7 @@
   },
   "caption": "Keyword alerts tell you something appeared. Relaylit ranks what deserves the first read, so the weekly digest starts closer to signal.\n\nrelaylit.com",
   "qa": {
-    "technical": "PENDING_HOST_VERIFICATION",
+    "technical": "PASS: raw GitHub image/png and image/jpeg headers verified before Buffer scheduling.",
     "visualDirector": "PASS per independent adversarial review on cover+endcard; no blockers.",
     "artifacts": {
       "contactSheet": "/Users/xusbadia/Documents/Flix/relaylit-slides/qa_artifacts/post27-rank-the-signal-first-20260629/contact-sheet.jpg",
@@ -27,6 +27,17 @@
     "tiktok": {
       "status": "retired_off",
       "note": "Relaylit TikTok is retired; no Buffer post or calendar event created."
+    }
+  },
+  "platforms": {
+    "instagram": {
+      "postId": "6a4274c673b7a4fb2d473c21",
+      "scheduledAt": "2026-07-04T16:00:00+02:00",
+      "calendarEventId": "7mkbp5t6h5eksl3n8rf72uo1hk",
+      "assets": [
+        "https://raw.githubusercontent.com/XusBadia/buffer-migration-assets/main/relaylit/post27-rank-the-signal-first-20260629/slide1-rank-the-signal-first.png",
+        "https://raw.githubusercontent.com/XusBadia/buffer-migration-assets/main/relaylit/post27-rank-the-signal-first-20260629/slide2-endcard.jpg"
+      ]
     }
   }
 }
